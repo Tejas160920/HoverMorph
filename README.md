@@ -1,4 +1,4 @@
-# React Adaptive Circledot-Cursor 🎯
+# HoverMorph (React Adaptive Circledot-Cursor 🎯)
 
 A sleek, responsive, and customizable cursor component for React applications. This library provides an animated cursor that adapts to different interactive elements, creating an engaging user experience.
 
